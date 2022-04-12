@@ -1,7 +1,8 @@
 Kaiburr Task 1
 
 Task 1 involves implementing an application in java which provides a REST API with endpoints for searching, creating and deleting “server” objects.
-Tools Required and Setup Process
+
+Tools Required and Setup Process:
 
 The following task utilizes maven project structure and is created entirely on Spring tool Suite(https://spring.io/tools).
 
